@@ -1,2 +1,2 @@
 
-Back-end Developer | Java Spring | Kotlin
+Back-end Developer | Java Spring
