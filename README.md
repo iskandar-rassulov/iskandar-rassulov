@@ -1,1 +1,1 @@
-Java | Spring | Kotlin
+Java Spring | Kotlin
